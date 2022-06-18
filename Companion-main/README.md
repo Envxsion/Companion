@@ -1,6 +1,6 @@
 # Companion
 
-<p align="center"><img src="Companion-main\assets\logo.png"></p>
+<p align="center"><img src="assets\logo.png"></p>
 
 > Companion is a tool which I created for myself, to suit my needs
 
